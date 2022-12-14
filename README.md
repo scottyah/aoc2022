@@ -11,3 +11,8 @@
 2. In terminal (or powershell), run the desired day you want with python
     `py aoc[day].py`
 3. The results will be printed in stdout
+
+## Structure
+Each solution file is at the root level, along with the README and gitignore file
+The puzzle_input directory contains copy/pasted puzzle input from the AoC website
+The test_puzzle_input directory contains some test data from the AoC website
