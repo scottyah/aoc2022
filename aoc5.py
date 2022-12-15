@@ -2,7 +2,7 @@ from collections import defaultdict
 from collections import deque
 
 # DATA IMPORT
-input_file = "puzzle_input/d5_p1.txt"
+input_file = "puzzle_input/day5.txt"
 # data = "test_puzzle_input/d5_p1.txt"
 
 

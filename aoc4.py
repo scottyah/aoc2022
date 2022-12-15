@@ -1,6 +1,6 @@
 
 # DATA IMPORT
-input_file = "puzzle_input/d4_p1.txt"
+input_file = "puzzle_input/day4.txt"
 # data = "test_puzzle_input/d4_p1.txt"
 
 data = [] # Each line will be a list, each range will be a tuple
