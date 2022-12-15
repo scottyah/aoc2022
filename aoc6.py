@@ -5,7 +5,7 @@ input_file = "puzzle_input/day6.txt"
 datastream = ""
 with open(input_file) as file:
     for line in file:
-        datastream = line.strip()
+        datastream = line.strip() # We know it's only one string
 
 # COMMON
 def first_marker(datastream_buffer: str, marker_length: int) -> int:
